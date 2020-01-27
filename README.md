@@ -1,5 +1,3 @@
-# htdocs
-Port
 Dosyalar index.html'de Diğer Sayfaları Kodlamadım.
 
 HATALAR
