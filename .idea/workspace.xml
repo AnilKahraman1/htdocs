@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4c8ec1c8-7714-4304-aec0-b883f70076f0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="302" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WwHH8NJhTNbNHZDULG58QxGANO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.index.html (2)">
+    <configuration name="index.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Poo/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html (2)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/htdocs/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/portfolio/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html (2)" />
+        <item itemvalue="JavaScript Debug.index.html (1)" />
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="AUTOSCROLL_MODE" value="false" />
+    <option name="AUTOSCROLL_FROM_SOURCE" value="true" />
+    <option name="ACTIVE_ACTIONS" value=",HTML5_OUTLINE_MODE" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4c8ec1c8-7714-4304-aec0-b883f70076f0" name="Default Changelist" comment="" />
+      <created>1551316472964</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1551316472964</updated>
+      <workItem from="1551316478071" duration="61000" />
+      <workItem from="1551316571748" duration="2636000" />
+      <workItem from="1551320294940" duration="25037000" />
+      <workItem from="1551394027964" duration="2000" />
+      <workItem from="1551396687462" duration="2000" />
+      <workItem from="1551582295933" duration="29679000" />
+      <workItem from="1551659308918" duration="6249000" />
+      <workItem from="1551678627620" duration="11298000" />
+      <workItem from="1551764802701" duration="17865000" />
+      <workItem from="1580053651528" duration="165000" />
+      <workItem from="1580080330478" duration="372000" />
+      <workItem from="1580080815783" duration="1372000" />
+      <workItem from="1580082464940" duration="32000" />
+      <workItem from="1580082925323" duration="495000" />
+      <workItem from="1580083429866" duration="233000" />
+      <workItem from="1580087838978" duration="52000" />
+      <workItem from="1580090110338" duration="129000" />
+      <workItem from="1580090240411" duration="5000" />
+      <workItem from="1580090256791" duration="170000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="168" key="FileChooserDialogImpl" timestamp="1580090237550">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="168" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1580090237550" />
+    <state width="1515" height="239" key="GridCell.Tab.0.bottom" timestamp="1580090412681">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="239" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1580090412681" />
+    <state width="1515" height="239" key="GridCell.Tab.0.center" timestamp="1580090412681">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="239" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1580090412681" />
+    <state width="1515" height="239" key="GridCell.Tab.0.left" timestamp="1580090412680">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="239" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1580090412680" />
+    <state width="1515" height="239" key="GridCell.Tab.0.right" timestamp="1580090412681">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="239" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1580090412681" />
+    <state width="1515" height="239" key="GridCell.Tab.1.bottom" timestamp="1580090412681">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="239" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1580090412681" />
+    <state width="1515" height="239" key="GridCell.Tab.1.center" timestamp="1580090412681">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="239" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1580090412681" />
+    <state width="1515" height="239" key="GridCell.Tab.1.left" timestamp="1580090412681">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="239" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1580090412681" />
+    <state width="1515" height="239" key="GridCell.Tab.1.right" timestamp="1580090412681">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="239" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1580090412681" />
+    <state width="1515" height="239" key="GridCell.Tab.2.bottom" timestamp="1580090412681">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="239" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1580090412681" />
+    <state width="1515" height="239" key="GridCell.Tab.2.center" timestamp="1580090412681">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="239" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1580090412681" />
+    <state width="1515" height="239" key="GridCell.Tab.2.left" timestamp="1580090412681">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="239" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1580090412681" />
+    <state width="1515" height="239" key="GridCell.Tab.2.right" timestamp="1580090412681">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="239" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1580090412681" />
+    <state width="1342" height="239" key="GridCell.Tab.3.bottom" timestamp="1580082188769">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1342" height="239" key="GridCell.Tab.3.bottom/0.0.1536.824@0.0.1536.824" timestamp="1580082188769" />
+    <state width="1342" height="239" key="GridCell.Tab.3.center" timestamp="1580082188769">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1342" height="239" key="GridCell.Tab.3.center/0.0.1536.824@0.0.1536.824" timestamp="1580082188769" />
+    <state width="1342" height="239" key="GridCell.Tab.3.left" timestamp="1580082188769">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1342" height="239" key="GridCell.Tab.3.left/0.0.1536.824@0.0.1536.824" timestamp="1580082188769" />
+    <state width="1342" height="239" key="GridCell.Tab.3.right" timestamp="1580082188769">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1342" height="239" key="GridCell.Tab.3.right/0.0.1536.824@0.0.1536.824" timestamp="1580082188769" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/htdocs$index_html__2_.dat" NAME="index.html (2) Coverage Results" MODIFIED="1580082039058" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="WipCoverageRunner" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
